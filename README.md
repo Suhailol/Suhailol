@@ -6,3 +6,5 @@
 - 📫 How to reach me: suhailmoidin96@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: A hash-map can solve 90 percent of your problems....probably
+
+<img src="https://github-readme-stats.vercel.app/api?username=suhailol&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
