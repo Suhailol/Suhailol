@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/suhail_moidin" target="blank"><img src="https://img.shields.io/twitter/follow/suhail_moidin?logo=twitter&style=for-the-badge" alt="suhail_moidin" /></a> </p>
 
-- 🔭 I’m currently study at [Manipal Institute of Technology](https://manipal.edu/mit.html)
+- 🔭 I’m currently studying at [Manipal Institute of Technology](https://manipal.edu/mit.html)
 
 - 🌱 I’m currently learning **IOS Development**
 
 - 📝 I write articles on [hashnode](https://hashnode.com/@suhailol)
 
-- 📫 How to reach me **suhailmoidin96@gmail.com**
+- 📫 Reach out to me via email **suhailmoidin96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
