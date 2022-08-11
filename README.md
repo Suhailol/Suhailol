@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/suhail_moidin" target="blank"><img src="https://img.shields.io/twitter/follow/suhail_moidin?logo=twitter&style=for-the-badge" alt="suhail_moidin" /></a> </p>
 
-- 🔭 I’m currently studying at [<b>Manipal Institute of Technology</b>](https://manipal.edu/mit.html)
+- 🔭 I’m currently a student at [<b>Manipal Institute of Technology</b>](https://manipal.edu/mit.html)
 
 - 🌱 I’m currently learning **IOS Development**
 
