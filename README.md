@@ -19,7 +19,7 @@
 <a href="https://twitter.com/suhail_moidin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhail_moidin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suhail-moidin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhail-moidin" height="30" width="40" /></a>
 <a href="https://instagram.com/suhailegit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhailegit" height="30" width="40" /></a>
-<a href="https://hashnode.com/suhailol" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8908719044365963ab6efff0f3e207fc97d0d2f0a9075f686065cf74d4e9527/68747470733a2f2f63646e2e73766172756e2e6465762f636f6d6d6f6e2f686173686e6f64652f69636f6e2e706e67" alt="suhailol" height="30" width="30" /></a>
+<a href="https://hashnode.com/@suhailol" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8908719044365963ab6efff0f3e207fc97d0d2f0a9075f686065cf74d4e9527/68747470733a2f2f63646e2e73766172756e2e6465762f636f6d6d6f6e2f686173686e6f64652f69636f6e2e706e67" alt="suhailol" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
